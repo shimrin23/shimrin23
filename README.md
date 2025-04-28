@@ -9,8 +9,7 @@
 
 - 🌱 I’m currently learning **Web Application Development and Advanced Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/smrn01223?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzL3yV7hKRRGoS01WTp36bw%3D%3D](https://www.linkedin.com/in/smrn01223?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzL3yV7hKRRGoS01WTp36bw%3D%3D)
-
+- 👨‍💻 All of my projects are available at : https://www.linkedin.com/in/smrn01223
 - 📫 How to reach me **shimrinsiraj@gmail.com**
 
 - ⚡ Fun fact **I love playing karate🥋 and exploring new tech!**
